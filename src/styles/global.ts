@@ -12,7 +12,7 @@ export default createGlobalStyle`
     background: #F0F2F5 ;
     -webkit-font-smoothing: antialiased
   }
-
+models
   body, input, button {
     font: 16px "Poppins", sans-serif;
   }
